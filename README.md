@@ -63,9 +63,9 @@ SECRET_KEY = ''
 
 At ChatBoard_dir directory, start and adjust virtual environment
 ```bash
-python -m venv venvCB
-venvCB\scripts\activate
-cd .\ChatBoard\ 
+python -m venv venv
+venv\scripts\activate
+cd .\Skillfactory_E6_SimpleChat\ 
 pip install -r requirements.txt
 ```
 
