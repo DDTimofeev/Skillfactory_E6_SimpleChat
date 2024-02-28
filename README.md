@@ -48,7 +48,7 @@ Platform-depending options and libraries are adjusted to Windows.
 
 Clone repository to ChatBoard_dir directory
 ```bash
-git clone https://github.com/MapleBloom/ChatBoard
+git clone https://github.com/DDTimofeev/Skillfactory_E6_SimpleChat
 ```
 
 Generate Django secret-key
